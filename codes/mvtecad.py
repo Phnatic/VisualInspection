@@ -7,7 +7,8 @@ from sklearn.metrics import roc_auc_score
 import os
 
 
-DATASET_PATH = './data/MVTec'
+# DATASET_PATH = './data/MVTec'
+DATASET_PATH = '/content/drive/MyDrive/Colab Notebooks/capstone/VisualInspection/data/MVTec'
 
 
 __all__ = ['objs', 'set_root_path',
